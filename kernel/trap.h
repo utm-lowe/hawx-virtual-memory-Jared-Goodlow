@@ -30,5 +30,3 @@ void plic_complete(int);
 #endif // TRAP_H
 
 
-
-// THIS IS A TEST//
